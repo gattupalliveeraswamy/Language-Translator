@@ -20,10 +20,7 @@ Ensure you have the following installed:
 - Python 3.7+ 
 - Jupyter Notebook
 - Required Python libraries (see `requirements.txt` or specify libraries here, e.g., pandas, numpy, matplotlib, etc.)
+## Instructions 
+- download all the files and use the dataset to run the ipny files.
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+## Youtube Link : https://youtu.be/-fbWzV8dgcI
