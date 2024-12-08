@@ -21,6 +21,6 @@ Ensure you have the following installed:
 - Jupyter Notebook
 - Required Python libraries (see `requirements.txt` or specify libraries here, e.g., pandas, numpy, matplotlib, etc.)
 ## Instructions 
-- download all the files and use the dataset to run the ipny files.
+- download all the files and use the dataset to run the ipynb files.
 
 ## Youtube Link : https://youtu.be/-fbWzV8dgcI
